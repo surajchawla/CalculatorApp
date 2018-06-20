@@ -1,0 +1,6 @@
+c:\users\surajchawla\documents\visual studio 2017\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+c:\users\surajchawla\documents\visual studio 2017\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+c:\users\surajchawla\documents\visual studio 2017\Projects\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+c:\users\surajchawla\documents\visual studio 2017\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+c:\users\surajchawla\documents\visual studio 2017\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+c:\users\surajchawla\documents\visual studio 2017\Projects\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
